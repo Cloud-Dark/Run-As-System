@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  RunAsSystem.cpp
+  main.cpp
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  RunAsSystem.vcxproj -> C:\Users\62812\Downloads\RunAsSystem-master\Debug\RunAsSystem.exe
+  RunAsSystem.vcxproj -> C:\Users\62812\Downloads\RunAsSystem-master\Debug\RunAsSystem.pdb (Full PDB)
